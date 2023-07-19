@@ -1,0 +1,52 @@
+body {
+    width: 100%;
+    height: 100vh;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.bd.placeholder-img {
+    font-size: 1.125rem;
+    
+}
+
+#search {
+    margin: 0 auto;
+    display: block;
+}
+
+.box {
+    width: auto;
+    display: block;
+    margin-left: 1100px;
+}
+
+.carousel {
+    margin-bottom: 4rem;
+}
+
+.carousel {
+    position: relative;
+}
+
+.image-size {
+    width: 100%;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.image2 {
+    width: 500px;
+}
+
+
+/* *,::after, ::before {
+    box-sizing: border-box;
+    margin
+} */
+
+
+
+
+
